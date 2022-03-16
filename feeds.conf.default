@@ -5,3 +5,10 @@ src-git telephony https://git.openwrt.org/feed/telephony.git;openwrt-21.02
 #src-link custom /usr/src/openwrt/custom-feed
 src-git lienol https://github.com/Lienol/openwrt-package.git;main
 src-git other https://github.com/Lienol/openwrt-package.git;other
+
+
+src-git ssrplus https://github.com/spysir/helloworld
+src-git passwall https://github.com/xiaorouji/openwrt-passwall.git;main
+src-git lienol https://github.com/spysir/openwrt-package-lienol-old
+src-git zhuti https://github.com/spysir/openwrt-themes
+src-git autotimeset https://github.com/spysir/luci-app-autotimeset.git
